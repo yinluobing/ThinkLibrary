@@ -1,20 +1,20 @@
 {
-  "name": "zoujingli/think-library",
+  "name": "yinluobing/think-library",
   "license": "MIT",
   "homepage": "https://thinkadmin.top",
   "description": "ThinkPHP v6 Development Library",
   "authors": [
     {
-      "name": "Anyon",
-      "email": "zoujingli@qq.com"
+      "name": "Icker",
+      "email": "yinluobing@163.com"
     }
   ],
   "support": {
-    "email": "zoujingli@qq.com",
+    "email": "yinluobing@163.com",
     "wiki": "https://thinkadmin.top",
     "forum": "https://thinkadmin.top",
-    "source": "https://gitee.com/zoujingli/ThinkLibrary",
-    "issues": "https://gitee.com/zoujingli/ThinkLibrary/issues"
+    "source": "https://github.com/yinluobing/ThinkLibrary",
+    "issues": "https://github.com/yinluobing/ThinkLibrary/issues"
   },
   "require": {
     "php": "^7.1|^8.0",
