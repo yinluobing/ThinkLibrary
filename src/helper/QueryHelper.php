@@ -41,7 +41,7 @@ class QueryHelper extends Helper
      * 当前数据操作
      * @var Query
      */
-    protected $query;
+    public $query;
 
     /**
      * 初始化默认数据
