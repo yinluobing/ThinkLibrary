@@ -78,7 +78,7 @@ if (!function_exists('admuri')) {
      */
     function admuri(string $url = '', array $vars = [], $suffix = true, $domain = false): string
     {
-        return sysuri('admin/index/index') . '#' . url($url, $vars, $suffix, $domain)->build();
+        return url($url, $vars, $suffix, $domain)->build();
     }
 }
 if (!function_exists('sysuri')) {
